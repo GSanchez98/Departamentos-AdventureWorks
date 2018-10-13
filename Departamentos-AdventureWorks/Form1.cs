@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Departamentos_AdventureWorks
 {
-    public partial class Form1 : Form
+    public partial class frmOperacionesCRUD : Form
     {
-        public Form1()
+        public frmOperacionesCRUD()
         {
             InitializeComponent();
         }
